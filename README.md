@@ -1,2 +1,2 @@
 # dmca.tv
-A platform for sharing potentially copyrighted music while streaming
+A platform for simultaneously listening to potentially copyrighted music while streaming
